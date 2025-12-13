@@ -12,10 +12,11 @@
 ---
 
 ## 👨‍💻 About Me
-- 🌱 I’m currently learning **React, Node.js & Data Structures**
+- 🎓 B.Tech CSE student at **Teerthanker Mahaveer University**
+- 🌱 Learning **React, Node.js & Data Structures**
 - 💬 Ask me about **Java, Python, C/C++, DSA**
-- 🤝 Looking to collaborate on **Open Source Projects**
-- 📫 Reach me at **kumarmanis552@gmail.com**
+- 🤝 Open to **Open Source & Internship opportunities**
+- 📫 Email: **kumarmanis552@gmail.com**
 - 🎯 Goal: **Software Engineer / Full Stack Developer**
 
 ---
@@ -23,41 +24,70 @@
 ## 🔗 Connect with me
 <p align="center">
   <a href="https://www.linkedin.com/in/manish-kumar-b443292b8/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="40" width="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/manish9134/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" height="40" width="40"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   <a href="https://www.hackerrank.com/profile/kumarmanis552" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" height="40" width="40"/>
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+  </a>
+  <a href="mailto:kumarmanis552@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="./Manish_Kumar_Resume_1_Page.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🛠 Languages & Tools (Icons – Clickable)
+## 🛠 Languages & Tools
 <p align="center">
-  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" /></a>
-  <a href="https://en.cppreference.com/w/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" /></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" /></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" /></a>
-  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-## 🛠 Languages & Tools (Buttons – Clickable)
-<p align="center">
-  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>
-  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
-  <a href="https://en.cppreference.com/w/"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/></a>
-  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
-  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></a>
-</p>
+## 🚀 Featured Projects
+- 🔹 **Mental Health Support App** – AI-based mental health companion  
+- 🔹 **Frontend Practice Projects** – UI-focused web apps  
+- 🔹 **DSA Practice** – LeetCode problem solving in Java  
+
+👉 Check repositories for more 👆
+
+---
+
+## 🧠 Interview Preparation (Java + DSA)
+**Java:** OOPs, Interface vs Abstract, Collections, Exception Handling, JVM  
+**DSA:** Arrays, Strings, Stack, Queue, Recursion, Time Complexity  
+
+📌 I regularly practice DSA problems on **LeetCode** and **HackerRank**.
+
+---
+
+## 🎯 Internship Roadmap
+- ✅ Daily 1 DSA problem  
+- ✅ Weekly project improvement  
+- ✅ Resume + GitHub updates  
+- ✅ Apply to 10–15 internships per week  
+
+Platforms:
+- Internshala  
+- LinkedIn  
+- Company Career Pages  
 
 ---
 
@@ -70,30 +100,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manish5-k&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish5-k&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
 ---
 
 ## 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=manish5-k&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
-
----
-
-## 🚀 Featured Projects
-- 🔹 **Mental Health Support App** – AI-based mental health companion  
-- 🔹 **Web Projects** – Frontend & backend practice projects  
-- 🔹 **DSA Practice** – LeetCode & core Java problem solving  
-
----
-
-## 🧠 Fun Facts
-- 💡 I love solving **DSA problems**
-- 🛠 I enjoy building **real-world projects**
-- 📈 I believe in **daily consistency over motivation**
 
 ---
 
