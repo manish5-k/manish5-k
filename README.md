@@ -12,11 +12,10 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 B.Tech CSE student at **Teerthanker Mahaveer University**
-- 🌱 Learning **React, Node.js & Data Structures**
+- 🌱 I’m currently learning **React, Node.js & Data Structures**
 - 💬 Ask me about **Java, Python, C/C++, DSA**
-- 🤝 Open to **Open Source & Internship opportunities**
-- 📫 Email: **kumarmanis552@gmail.com**
+- 🤝 Looking to collaborate on **Open Source Projects**
+- 📫 Reach me at **kumarmanis552@gmail.com**
 - 🎯 Goal: **Software Engineer / Full Stack Developer**
 
 ---
@@ -38,7 +37,7 @@
 </p>
 
 <p align="center">
-  <a href="./Manish_Kumar_Resume_1_Page.pdf" target="_blank">
+  <a href="./Manish_Kumar_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
@@ -47,47 +46,17 @@
 
 ## 🛠 Languages & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="https://en.cppreference.com/w/"><img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/></a>
+  <a href="https://www.cprogramming.com/"><img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+  <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/></a>
+  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/></a>
+  <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
 </p>
-
----
-
-## 🚀 Featured Projects
-- 🔹 **Mental Health Support App** – AI-based mental health companion  
-- 🔹 **Frontend Practice Projects** – UI-focused web apps  
-- 🔹 **DSA Practice** – LeetCode problem solving in Java  
-
-👉 Check repositories for more 👆
-
----
-
-## 🧠 Interview Preparation (Java + DSA)
-**Java:** OOPs, Interface vs Abstract, Collections, Exception Handling, JVM  
-**DSA:** Arrays, Strings, Stack, Queue, Recursion, Time Complexity  
-
-📌 I regularly practice DSA problems on **LeetCode** and **HackerRank**.
-
----
-
-## 🎯 Internship Roadmap
-- ✅ Daily 1 DSA problem  
-- ✅ Weekly project improvement  
-- ✅ Resume + GitHub updates  
-- ✅ Apply to 10–15 internships per week  
-
-Platforms:
-- Internshala  
-- LinkedIn  
-- Company Career Pages  
 
 ---
 
@@ -98,6 +67,10 @@ Platforms:
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=manish5-k&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish5-k&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
