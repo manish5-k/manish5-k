@@ -16,7 +16,6 @@
 - 💬 Ask me about **Java, Python, C/C++, DSA**
 - 🤝 Looking to collaborate on **Open Source Projects**
 - 📫 Reach me at **kumarmanis552@gmail.com**
-- 🌐 Portfolio: https://mental-health-support-etum.onrender.com/
 - 🎯 Goal: **Software Engineer / Full Stack Developer**
 
 ---
