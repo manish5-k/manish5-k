@@ -21,24 +21,21 @@
 
 ---
 
-## 🔗 Connect with me
+## 🔗 Connect with me:
 <p align="center">
   <a href="https://www.linkedin.com/in/manish-kumar-b443292b8/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30" width="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="40" width="40"/>
   </a>
-  <a href="https://github.com/manish5-k" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" height="30" width="40"/>
-  </a>
-  <a href="mailto:kumarmanis552@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" height="30" width="40"/>
-  </a>
+
   <a href="https://leetcode.com/u/manish9134/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" height="30" width="40"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" height="40" width="40"/>
   </a>
-  <a href="https://mental-health-support-etum.onrender.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" height="30" width="40"/>
+
+  <a href="https://www.hackerrank.com/profile/kumarmanis552" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" height="40" width="40"/>
   </a>
 </p>
+
 
 ---
 
