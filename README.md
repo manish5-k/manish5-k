@@ -37,10 +37,11 @@
 </p>
 
 <p align="center">
-  <a href="./Manish_Kumar_Resume.pdf" target="_blank">
+  <a href="https://raw.githubusercontent.com/manish5-k/manish5-k/main/Manish_Kumar_Resume_1_Page.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
+
 
 ---
 
