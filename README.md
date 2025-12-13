@@ -1,3 +1,5 @@
+<img width="1827" height="991" alt="image" src="https://github.com/user-attachments/assets/a0aa01bb-b9bd-468c-976c-9b6767a4b298" />
+
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
 <h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
 
@@ -47,3 +49,10 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manish5-k&layout=compact&theme=dark" />
 </p>
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manish5-k&theme=darkhub&no-frame=true&row=1&column=6" />
+</p>
+
