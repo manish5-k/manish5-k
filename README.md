@@ -12,7 +12,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🌱 I’m currently learning **React, Node.js & Data Structures**
+
 - 💬 Ask me about **Java, Python, C/C++, DSA**
 - 🤝 Looking to collaborate on **Open Source Projects**
 - 📫 Reach me at **kumarmanis552@gmail.com**
