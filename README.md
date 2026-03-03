@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-- 💬 Ask me about **Java, Python, C/C++, DSA**
+- 💬 Ask me about **Java,DSA**
 - 🤝 Looking to collaborate on **Open Source Projects**
 - 📫 Reach me at **kumarmanis552@gmail.com**
 - 🎯 Goal: **Software Engineer / Full Stack Developer**
@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/manish5-k/manish5-k/main/Manish_Kumar_Resume_1_Page.pdf" target="_blank">
+    <a href="https://raw.githubusercontent.com/manish5-k/manish5-k/main/" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
